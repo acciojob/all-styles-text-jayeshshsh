@@ -1,13 +1,14 @@
 
 /* Your CSS Code here. */
-.container{
+
+.main{
+    width: 200px;
+    padding: 10px;
     background-color: purple;
     border-left-width: 7px;
     border-left-style: solid;
     border-left-color: green;
-    width: 200px;
-    padding: 10px;
-    
+    font-size: 20px;    
 }
 
 .heading{
